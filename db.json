@@ -2,19 +2,23 @@
   "drivers": [
     {
       "id": 1,
-      "name": "Amitoj Singh"
+      "name": "Amitoj Singh",
+      "dob": "1950-01-01T00:00:00Z"
     },
     {
       "id": 2,
-      "name": "Aya Hijazi"
+      "name": "Aya Hijazi",
+      "dob": "1960-02-02T00:00:00Z"
     },
     {
       "id": 3,
-      "name": "André Rieu"
+      "name": "André Rieu",
+      "dob": "1970-03-03T00:00:00Z"
     },
     {
       "id": 4,
-      "name": "Jing Wang"
+      "name": "Jing Wang",
+      "dob": "1980-10-10T00:00:00Z"
     }
   ]
 }
